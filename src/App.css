@@ -9,7 +9,7 @@
   display: flex;
   width: 60rem;
   height: 35rem;
-  transform: translateX(45%) translateY(35%);
+  transform: translateX(40%) translateY(20%);
   border-radius: 10px;
   background-color: rgba(51, 58, 73, 0.794);
   box-shadow: 2px 2px 1.25rem 10px rgb(17, 24, 51);
